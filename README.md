@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivammahe21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15J_L37OQf-EEMu2Werv3eVsu_xf9Yw-H/view?usp=sharing](https://drive.google.com/file/d/15J_L37OQf-EEMu2Werv3eVsu_xf9Yw-H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15J_L37OQf-EEMu2Werv3eVsu_xf9Yw-H/view?usp=sharing](My CV)
 
 - ⚡ Fun fact **I love playing Chess**
 
