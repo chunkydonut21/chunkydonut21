@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chunkydonut21&label=Profile%20views&color=0e75b6&style=flat" alt="chunkydonut21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chunkydonut21" alt="chunkydonut21" /></a> </p>
-
 - 🔭 I’m currently working on [App Mockup Generator](https://appscreenshot.shivammaheshwari.codes/)
 
 - 🌱 I’m currently learning **Machine Learning with Python**
