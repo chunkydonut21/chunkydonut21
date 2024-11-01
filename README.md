@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [App Mockup Generator](https://appscreenshot.shivammaheshwari.codes/)
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Financial Mathematics, Machine Learning in Finance**
 
 - 👨‍💻 All of my projects are available at [https://shivammaheshwari.codes/](https://shivammaheshwari.codes/)
 
 - 📫 How to reach me **shivammahe21@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/15J_L37OQf-EEMu2Werv3eVsu_xf9Yw-H/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1KjGXh4Pd_VQY44Z30wP6Yh7GjlvJgysc/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing Chess**
 
