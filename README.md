@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [App Mockup Generator](https://appscreenshot.shivammaheshwari.codes/)
 
-- 🌱 I’m currently learning **Financial Mathematics, Machine Learning in Finance**
+- 🌱 I’m currently learning **Financial Mathematics**
 
 - 👨‍💻 All of my projects are available at [https://shivammaheshwari.codes/](https://shivammaheshwari.codes/)
 
