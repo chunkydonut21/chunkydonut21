@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chunkydonut21&label=Profile%20views&color=0e75b6&style=flat" alt="chunkydonut21" /> </p>
 
-- 🔭 I’m currently working on [App Mockup Generator](https://appscreenshot.shivammaheshwari.codes/)
-
 - 🌱 I’m currently learning **Financial Mathematics**
 
 - 👨‍💻 All of my projects are available at [https://shivammaheshwari.codes/](https://shivammaheshwari.codes/)
 
 - 📫 How to reach me **shivammahe21@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1KjGXh4Pd_VQY44Z30wP6Yh7GjlvJgysc/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1W7k6ZjFbsqCy0Aq3rQ1C5zxaX4BYy3gk/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing Chess**
 
