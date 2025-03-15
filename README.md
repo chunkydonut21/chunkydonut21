@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Maheshwari</h1>
-<h3 align="center">A creative Full Stack Javascript Developer</h3>
+<h3 align="center">Software Engineer with a passion of Finance 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chunkydonut21&label=Profile%20views&color=0e75b6&style=flat" alt="chunkydonut21" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivammahe21@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1W7k6ZjFbsqCy0Aq3rQ1C5zxaX4BYy3gk/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Wf-PDJKCrXUVhUZ8LZ78TFqNF7Cp9o1A/view?usp=drive_link)
 
 - ⚡ Fun fact **I love playing Chess**
 
